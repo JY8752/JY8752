@@ -18,14 +18,14 @@
   <!-- <a href="https://stackoverflow.com/users/5720201/yutkat">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a> -->
-  <a href="https://zenn.dev/JY8752">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/JY8752/likes" />
+  <a href="https://zenn.dev/jy8752">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/jy8752/likes" />
   </a>
-  <a href="https://zenn.dev/JY8752">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/JY8752/followers" />
+  <a href="https://zenn.dev/jy8752">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/jy8752/followers" />
   </a>
-  <a href="https://zenn.dev/JY8752">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/JY8752/articles" />
+  <a href="https://zenn.dev/jy8752">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/jy8752/articles" />
   </a>
   <a href="http://qiita.com/JY8752">
     <img height="20" src="https://qiita-badge.apiapi.app/s/JY8752/posts.svg" />
