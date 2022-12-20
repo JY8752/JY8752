@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Visitors
-[[](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
+[！[](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
 
 <p align="left">
   <a href="https://github.com/JY8752/JY8752/">
