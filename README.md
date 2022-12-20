@@ -1,11 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+## Visitors
+[[](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
 
 <p align="left">
   <a href="https://github.com/JY8752/JY8752/">
     <img src="https://komarev.com/ghpvc/?username=JY8752" alt="JY8752" />
   </a>
-  <a href="http://twitter.com/JY8752">
-    <img height="20" src="https://img.shields.io/twitter/follow/JY8752?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/ymnk_8752">
+    <img height="20" src="https://img.shields.io/twitter/follow/ymnk_8752?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/JY8752">
     <img height="20" src="https://img.shields.io/github/followers/JY8752?label=follow&logo=github&style=flat" />
