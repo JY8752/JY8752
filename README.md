@@ -22,9 +22,6 @@
     <img height="20" src="https://zenn.badge.nikaera.com/s/jy8752/likes" />
   </a>
   <a href="https://zenn.dev/jy8752">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/jy8752/followers" />
-  </a>
-  <a href="https://zenn.dev/jy8752">
     <img height="20" src="https://zenn.badge.nikaera.com/s/jy8752/articles" />
   </a>
   <a href="http://qiita.com/JY8752">
@@ -35,11 +32,15 @@
   </a>
 </p>
   
- ## Technology Stack
+## Technology Stack
 
+### Language
 [![Java](https://img.shields.io/badge/-Java-3776AB?style=flat-square)](https://www.java.com)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://kotlinlang.org/)
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![Solidity](https://img.shields.io/badge/-Solidity-3776AB?style=flat-square)](https://docs.soliditylang.org/en/v0.8.17/)
 
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
