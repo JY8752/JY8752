@@ -37,7 +37,7 @@
 ### Operating System & Tools
 [![macOS](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos)
 
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=JetBrains)](https://www.jetbrains.com)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 ### Language
