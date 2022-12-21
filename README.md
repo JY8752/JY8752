@@ -36,7 +36,7 @@
 
 ### Language
 [![Java](https://img.shields.io/badge/-Java-3776AB?style=flat-square)](https://www.java.com)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-00ADD8?style=flat-square&logo=kotlin&logoColor=ffffff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7033FD?style=flat-square&logo=kotlin&logoColor=ffffff)](https://kotlinlang.org/)
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-00ADD8?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
