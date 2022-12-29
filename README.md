@@ -65,6 +65,16 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
+
+```text
+Kotlin            17 hrs 58 mins  ██████████████▓░░░░░░░░░░   59.08 %
+Go                4 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
+Markdown          1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+YAML              1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Protocol Buffer   1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Java              51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
