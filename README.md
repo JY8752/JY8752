@@ -1,11 +1,13 @@
 # Hi there 👋
 
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:JY8752"></a>
+
 ## About Me
 
 <p align="left">
-  <a href="https://github.com/JY8752/JY8752/">
+  <!-- <a href="https://github.com/JY8752/JY8752/">
     <img src="https://komarev.com/ghpvc/?username=JY8752" alt="JY8752" />
-  </a>
+  </a> -->
   <a href="http://twitter.com/ymnk_8752">
     <img height="20" src="https://img.shields.io/twitter/follow/ymnk_8752?label=Twitter&logo=twitter&style=flat" />
   </a>
