@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:JY8752"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:JY8752?theme=rule34"></a>
 
 ## About Me
 
@@ -29,7 +29,7 @@
   <a href="http://qiita.com/JY8752">
     <img height="20" src="https://qiita-badge.apiapi.app/s/JY8752/posts.svg" />
   </a>
-  <//qiita.com/JY8752">
+  <a href="http://qiita.com/JY8752">
     <img height="20" src="https://qiita-badge.apiapi.app/s/JY8752/contributions.svg" />
   </a>
 </p>
