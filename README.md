@@ -66,6 +66,8 @@
 
 ## Analysis
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JY8752&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/JY8752/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 ```text
