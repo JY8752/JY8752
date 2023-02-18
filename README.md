@@ -72,10 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           12 hrs 11 mins  ██████████▒░░░░░░░░░░░░░░   41.07 %
-Markdown     5 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-Rust         4 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Other        3 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Other        10 hrs 9 mins   █████████░░░░░░░░░░░░░░░░   35.99 %
 ```
 
 <!--END_SECTION:waka-->
