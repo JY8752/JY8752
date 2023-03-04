@@ -72,9 +72,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript        13 hrs 16 mins  ██████████▓░░░░░░░░░░░░░░   43.28 %
-Go                4 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Other             3 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+TypeScript       9 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.39 %
+Go               8 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
+Other            3 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
 ```
 
 <!--END_SECTION:waka-->
