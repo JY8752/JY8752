@@ -72,9 +72,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       9 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.39 %
-Go               8 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
-Other            3 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Go               9 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.08 %
+TypeScript       8 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.97 %
+Shell Script     2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Other            1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
 ```
 
 <!--END_SECTION:waka-->
