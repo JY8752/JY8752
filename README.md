@@ -72,12 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go                8 hrs 5 mins    ███████████░░░░░░░░░░░░░░   43.85 %
-Terraform         6 hrs 47 mins   █████████▒░░░░░░░░░░░░░░░   36.80 %
-Markdown          2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-YAML              41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-JavaScript        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Go                7 hrs 57 mins   ███████████▓░░░░░░░░░░░░░   47.08 %
+Terraform         5 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   31.94 %
+Markdown          2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+YAML              41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JavaScript        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
