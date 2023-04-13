@@ -72,12 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown          3 hrs 37 mins   ██████████░░░░░░░░░░░░░░░   40.50 %
-Terraform         2 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-Go                1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-YAML              41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Markdown          3 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   32.61 %
+Terraform         3 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.34 %
+Go                2 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+YAML              41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Makefile          34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
