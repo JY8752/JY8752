@@ -72,12 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           8 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   35.47 %
-Markdown     4 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-Terraform    3 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-TypeScript   3 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Astro        1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Makefile     1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Go           8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.59 %
+Markdown     5 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
+Terraform    3 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+TypeScript   3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Astro        1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Makefile     1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
