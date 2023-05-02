@@ -72,8 +72,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           2 mins          ████████████████████████▒   96.84 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Kotlin           13 mins         █████████████████████░░░░   84.52 %
+Markdown         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
