@@ -72,9 +72,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           4 hrs 37 mins   ███████████████▒░░░░░░░░░   61.98 %
-Markdown         2 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.01 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Kotlin       4 hrs 35 mins   ████████████▒░░░░░░░░░░░░   49.85 %
+Markdown     4 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   46.77 %
+TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Astro        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
