@@ -48,7 +48,7 @@
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-00ADD8?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![Solidity](https://img.shields.io/badge/-Solidity-3776AB?style=flat-square&logo=solidity&logoColor=ffffff)](https://docs.soliditylang.org/en/v0.8.17/)
+<!-- [![Solidity](https://img.shields.io/badge/-Solidity-3776AB?style=flat-square&logo=solidity&logoColor=ffffff)](https://docs.soliditylang.org/en/v0.8.17/) -->
 
 ### Frameworks
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://spring.io/)
@@ -62,7 +62,7 @@
 ### Other
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-<!-- [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/) -->
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 
 ## Analysis
 
