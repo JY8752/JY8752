@@ -72,11 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java           1 hr 4 mins     ██████████████████▓░░░░░░   74.03 %
-Markdown       18 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-Git Config     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Kotlin         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
