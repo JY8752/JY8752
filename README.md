@@ -72,7 +72,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Protocol Buffer   13 mins         ████████████▓░░░░░░░░░░░░   50.81 %
+YAML              13 mins         ████████████▒░░░░░░░░░░░░   49.19 %
 ```
 
 <!--END_SECTION:waka-->
