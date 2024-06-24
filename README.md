@@ -72,10 +72,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          1 hr 31 mins    ██████████████░░░░░░░░░░░   56.09 %
-Protocol Buffer   38 mins         ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-YAML              28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-Go                4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Kotlin           12 mins         █████████████████░░░░░░░░   68.44 %
+GitIgnore file   5 mins          ████████░░░░░░░░░░░░░░░░░   31.56 %
 ```
 
 <!--END_SECTION:waka-->
