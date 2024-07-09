@@ -72,9 +72,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          3 hrs 18 mins   ████████████████████▓░░░░   82.92 %
-YAML              39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Markdown   2 hrs 32 mins   ████████████████████░░░░░   80.32 %
+YAML       37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
 ```
 
 <!--END_SECTION:waka-->
