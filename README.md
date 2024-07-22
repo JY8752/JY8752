@@ -72,9 +72,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             4 hrs 32 mins   █████████████████████████   99.71 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java             7 hrs 19 mins   █████████████████████████   99.79 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
