@@ -72,9 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   51 mins         ██████████████▒░░░░░░░░░░   57.98 %
-Kotlin     27 mins         ████████░░░░░░░░░░░░░░░░░   31.37 %
-Java       9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
