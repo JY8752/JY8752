@@ -72,7 +72,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Haskell   30 mins         █████████████████████▓░░░   86.47 %
+JSON      4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
 ```
 
 <!--END_SECTION:waka-->
