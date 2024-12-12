@@ -72,8 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell   3 hrs 3 mins    ████████████████████████▒   97.42 %
-JSON      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Haskell   2 hrs 32 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
