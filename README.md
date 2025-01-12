@@ -72,7 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell   29 mins         █████████████████████████   100.00 %
+Haskell   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
